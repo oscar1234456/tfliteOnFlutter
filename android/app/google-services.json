@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651567875046",
+    "project_id": "fir-mltest-67632",
+    "storage_bucket": "fir-mltest-67632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651567875046:android:c924d60ba3ce4ec4d30c27",
+        "android_client_info": {
+          "package_name": "com.example.tflite_on_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651567875046-0h7g8437mlp4i3im7ho6sk3ivghnu6re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBa0TDwRLTk5zZWy_sG3ZCLS4Ka772CcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651567875046-0h7g8437mlp4i3im7ho6sk3ivghnu6re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
